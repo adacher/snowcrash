@@ -13,3 +13,7 @@ flag: kooda2puivaav1idi4f57q8iq
 level04
 
 flag: qi0maab88jeaj46qoumi7maus
+
+level05
+
+flag: ne2searoevaevoem4ov4ar8ap
