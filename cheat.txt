@@ -5,3 +5,11 @@ flag: x24ti5gi3x0ol2eh4esiuxias
 level02
 
 flag: f2av5il02puano7naaf6adaaf
+
+level03
+
+flag: kooda2puivaav1idi4f57q8iq
+
+level04
+
+flag: qi0maab88jeaj46qoumi7maus
