@@ -4,7 +4,7 @@ Running ls -l gives us:
 
 level03 is a binary file, it's setuid permission bit being set, it allows any user who runs it to run it with root privileges.
 
-Further inspection using gdb shows us that the binary calls the function system() within which echo is used to display :
+Further inspection using gdb shows us that the binary file calls the function system() within which "/usr/bin/env echo" is used to display :
 
 Exploit me
 
