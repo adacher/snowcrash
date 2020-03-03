@@ -12,7 +12,7 @@ Checking further used functions in the program indicates us that access() is use
 
 It is possible to create a race condition in order to exploit the call to access and substitute the file we want to open.
 
-For the race condition to succeed we need to run two simulteanous shell commands:
+For the race condition to succeed we need to run two simultaneous shell commands:
 
 while true; do ln -fs ~/level10 /tmp/race; ln -fs ~/token /tmp/race; done
 
