@@ -1,9 +1,0 @@
-b main
-b * 0x0804898e
-r
-c
-set $eax=0
-b * 0x08048b0a
-c
-set $eax=3014
-n
