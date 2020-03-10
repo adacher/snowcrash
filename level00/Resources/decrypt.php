@@ -20,7 +20,8 @@ function decrypt($str, $offset) {
       }
       $i++;
 	}
-	echo $decrypted_text . "\n";
+    echo $decrypted_text;
+    echo "<br>";
     return $decrypted_text;
 }
 
